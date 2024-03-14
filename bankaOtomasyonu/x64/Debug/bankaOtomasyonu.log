@@ -1,0 +1,5 @@
+﻿  bankaOtomasyonu.cpp
+C:\Users\halil\OneDrive\Masaüstü\Projeler\c++\Udemy\bankaOtomasyonu\bankaOtomasyonu.cpp(11,48): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+  hesap.cpp
+  Kod Üretiliyor...
+  bankaOtomasyonu.vcxproj -> C:\Users\halil\OneDrive\Masaüstü\Projeler\c++\Udemy\bankaOtomasyonu\x64\Debug\bankaOtomasyonu.exe
